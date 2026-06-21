@@ -1,11 +1,11 @@
 <img width="1914" height="1079" alt="Screenshot 2026-03-29 211729" src="https://github.com/user-attachments/assets/b4d9147a-72cd-4654-b869-86f608a50ebd" />
 
-## 📝 Project Overview
+## Project Overview
 **VR Public Speaking Training** is an immersive, interactive virtual reality application built in Unity. It is designed to help users conquer stage fright, build confidence, and master their presentation skills by simulating realistic speaking environments and providing real-time performance analytics.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **<u>Progressive Difficulty Environments</u>:**
 * * **One-to-One (Beginner):** A low-pressure, single-person interview or meeting setup to get comfortable with basic eye contact.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools Used
+## Tech Stack & Tools Used
 * **Engine:** Unity
 * **Language:** C#
 * **XR Rig:** Unity XR Interaction Toolkit / XR Device Simulator
