@@ -31,7 +31,7 @@
 
 ## Huge shoutout to the amazing team that made this project possible:
 * **Jasir VM** - [LinkedIn](https://www.linkedin.com/in/jasir-v-m-748305418?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/jasir6271)
-* **Fathima Liya P** - [LinkedIn](https://www.linkedin.com/in/liya-sainudheen-88767b418?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [GitHub](https://github.com/hebbaroslin)
+* **Fathima Liya P** - [LinkedIn](https://www.linkedin.com/in/liya-sainudheen-88767b418?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [GitHub](https://github.com/liyafathima-p)
 * **Shahana Thasneem C** - [LinkedIn](https://www.linkedin.com/in/shahana-thasneem-2aa602393?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [GitHub](https://github.com/shahana-thasneem1234)
 * **Hebba Rosilin Jose** - [LinkedIn](https://www.linkedin.com/in/hebba-rosilin-jose-272a61377?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/hebbaroslin)
 
