@@ -8,7 +8,7 @@
 ## Key Features
 
 * **<u>Progressive Difficulty Environments</u>:**
-* * **One-to-One (Beginner):** A low-pressure, single-person interview or meeting setup to get comfortable with basic eye contact.
+  * **One-to-One (Beginner):** A low-pressure, single-person interview or meeting setup to get comfortable with basic eye contact.
   * **Classroom (Intermediate):** A mid-sized room filled with interactive student avatars to simulate small-group presentations.
   * **Auditorium (Advanced):** A massive, high-ceiling venue with a large crowd simulation to test public speaking under maximum pressure.
 
